@@ -31,9 +31,9 @@ An interactive Streamlit app that uses a trained TensorFlow model to recognize h
 
 ## 📸 Screenshots
 
-| Image Upload         | Prediction Result                  | Probability Chart                              |
-|----------------------|------------------------------------|------------------------------------------------|
-| ![UI](images/ui.png) | ![CM](images/confusion_matrix.png) | ![CM](images/predicted_class_distribution.png) |
+| Image Upload         | Model in Operation              | Prediction Result            |
+|----------------------|---------------------------------|------------------------------|
+| ![UI](images/3.jpeg) | ![MO](images/model_running.png) | ![PR](images/prediction.png) |
 
 ## 🧪 Getting Started Locally
 
