@@ -4,3 +4,6 @@ __pycache__/
 *.pyd
 .env
 venv/
+.idea/
+*.db
+.DS_Store
