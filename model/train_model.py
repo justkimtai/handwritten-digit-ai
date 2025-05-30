@@ -46,8 +46,8 @@ if not os.path.exists("model/mnist_model.h5"):
     plt.title("Confusion Matrix")
     plt.savefig("images/confusion_matrix.png")
 
-    print("✅ Model saved to model/mnist_model.h5")
-    print("📊 Confusion matrix saved to images/confusion_matrix.png")
+    print("Model saved to model/mnist_model.h5")
+    print("Confusion matrix saved to images/confusion_matrix.png")
 
 else:
-    print("✅ Model already exists — skipping training.")
+    print("Model already exists, skipping training.")
