@@ -1,0 +1,4 @@
+tensorflow==2.14
+numpy
+pillow
+streamlit
