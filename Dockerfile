@@ -20,6 +20,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy all app files into container
 COPY . .
 
+# Train the model during build
+RUN python model/train_model.py
+
 # Expose the Streamlit port
 EXPOSE 8501
 
