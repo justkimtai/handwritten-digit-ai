@@ -7,3 +7,5 @@ venv/
 .idea/
 *.db
 .DS_Store
+running_commands.txt
+
