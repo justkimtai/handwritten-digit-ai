@@ -4,7 +4,7 @@ An interactive Streamlit app that uses a trained TensorFlow model to recognize h
 
 ## 🚀 Live Demo
 
-👉 [Try the live app here](https://breastcancerclassifierdemo.streamlit.app/)
+👉 [Try the live app here](https://handwritten-digit-ai.streamlit.app/)
 
 ## 🎯 Features
 
