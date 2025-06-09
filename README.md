@@ -85,4 +85,4 @@ Feel free to connect with me on [X (Twitter)](https://x.com/justkimtai) or [emai
 
 ---
 
-> Built with ❤️ by [Justus Kimtai](https://github.com/justkimtai) — aspiring full-stack & AI engineer.
+> Built with ❤️ by [Justus Kimtai](https://github.com/justkimtai)
