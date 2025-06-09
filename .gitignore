@@ -175,3 +175,5 @@ cython_debug/
 
 # Custom files
 running_commands.txt
+
+app.zip
