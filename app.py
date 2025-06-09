@@ -1,5 +1,3 @@
-# app.py
-
 import streamlit as st
 import numpy as np
 from PIL import Image
@@ -7,7 +5,7 @@ import matplotlib.pyplot as plt
 from digit_recognizer import model
 
 st.set_page_config(page_title="Digit Recognizer", page_icon="✍️")
-st.title("🧠 Handwritten Digit Recognition")
+st.title("Handwritten Digit Recognition")
 st.markdown("Upload an image of a handwritten digit (0–9)")
 
 uploaded_file = st.file_uploader("📤 Choose an image...", type=["jpg", "png", "jpeg"])
